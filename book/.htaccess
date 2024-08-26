@@ -1,0 +1,2 @@
+RewriteEngine On # Turn on the rewriting engine
+RewriteRule ^([0-9a-zA-Z_-]*)$ books_api.php?ISBN=$1 [NC,L]
