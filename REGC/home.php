@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Real Estate Governance and Consultation</title>
     <link rel="shortcut icon" type="image/x-icon" href="RealEstate Logo Icon.png">
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAdbXPcmyhunUNCayLaJvzFL5_s2keehJs"></script>
+    <script async defer src=""></script>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
